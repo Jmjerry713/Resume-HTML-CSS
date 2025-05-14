@@ -1,0 +1,138 @@
+body {
+    background-color: #780000;
+}
+
+.titlebox {
+    background-color: #c1121f;
+    height: 50px;
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+    left: 500px;
+}
+
+.portfolio {
+    color: aliceblue;
+    position: relative;
+    left: 25px;
+    top: 5px;
+}
+
+.box1 {
+    background-color: #f2cc8f;
+    width: 660px;
+    height: 210px;
+    border-radius: 45px;
+    position: relative;
+    top: 20px;
+}
+
+.box2 {
+    background-color: #f2cc8f;
+    width: 650px;
+    height: 210px;
+    border-radius: 45px;
+    position: relative;
+    top: -60px;
+}
+
+.objective {
+    position: relative;
+    left: 20px;
+    top: 20px;
+}
+
+.box3 {
+    background-color: #f2cc8f;
+    width: 660px;
+    height: 300px;
+    border-radius: 45px;
+    position: relative;
+    top: -60px;
+}
+
+.education {
+    position: relative;
+    left: 30px;
+    top: 20px;
+}
+
+.box4 {
+    background-color: #f2cc8f;
+    width: 660px;
+    height: 500px;
+    border-radius: 45px;
+    position: relative;
+    top: -60px;
+}
+
+.internships {
+    position: relative;
+    left: 30px;
+    top: 20px;
+}
+
+.box5 {
+    background-color: #f2cc8f;
+    width: 660px;
+    height: 200px;
+    border-radius: 45px;
+    position: relative;
+    top: -60px;
+}
+
+.technicalskills {
+    position: relative;
+    left: 30px;
+    top: 20px;
+}
+
+.box6 {
+    background-color: #f2cc8f;
+    width: 660px;
+    height: 150px;
+    border-radius: 45px;
+    position: relative;
+    top: -60px;
+}
+
+.softskills {
+    position: relative;
+    left: 30px;
+    top: 20px;
+}
+
+.box7 {
+    background-color: #f2cc8f;
+    width: 660px;
+    height: 150px;
+    border-radius: 45px;
+    position: relative;
+    top: -60px;
+}
+
+.certifications {
+    position: relative;
+    left: 30px;
+    top: 20px;
+}
+
+.image {
+    border: black solid 0.4rem;
+    width: 110px;
+    height: 145px;
+    position: relative;
+    top: 25px;
+    left: 25px
+}
+
+.intro-text {
+    color: #003049;
+    position: relative;
+    left: 160px;
+    top: -130px;
+}
+.myportfolio {
+    position: relative;
+    left: 310px;
+}
